@@ -6,16 +6,16 @@ This project is made with the purpose of removing the manual attendance system a
 
 ## Pre-Requisites:
 
-#### 1. **Python Version 3.7.x** (Some Libraries used in it have compatibility issues with latest versions of python)
+#### 1. **Python Version 3.x.x** (Some Libraries used in it have compatibility issues with other versions of python)
 
-#### 2. **Pip Latest Version 2.20.x**
+#### 2. **Pip Latest Version**
 
 #### 3. **Libraries to be installed**
 
       - numpy
       - opencv-python
       - face-recognition
-      - dlib (Note: Download Manually, [Link](https://github.com/datamagic2020/Install-dlib))
+      - dlib (Note: Download Manually from https://github.com/datamagic2020/Install-dlib)
       - cmake
 
 #### 4. **Setup Virtual Environment**
