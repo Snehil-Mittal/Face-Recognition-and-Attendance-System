@@ -18,6 +18,11 @@ This project is made with the purpose of removing the manual attendance system a
       - dlib (Note: Download Manually, [Link](https://github.com/datamagic2020/Install-dlib))
       - cmake
 
+#### 4. **Setup Virtual Environment**
+
+        python -m venv .venv
+        .venv\scripts\activate
+
 **Note: Preferably use pyCharm as the editor because opencv projects don't go well with Anaconda and system gets hanged. Secondly on other text editors you may face dependencies issues and errors**
 
 ## Documentation:
