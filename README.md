@@ -15,9 +15,8 @@ This project is made with the purpose of removing the manual attendance system a
       - numpy
       - opencv-python
       - face-recognition
-      - dlib
+      - dlib (Note: Download Manually, [Link](https://github.com/datamagic2020/Install-dlib))
       - cmake
-
 
 **Note: Preferably use pyCharm as the editor because opencv projects don't go well with Anaconda and system gets hanged. Secondly on other text editors you may face dependencies issues and errors**
 
